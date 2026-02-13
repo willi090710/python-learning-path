@@ -5,7 +5,7 @@ Welcome to my repository! This is where I document my progress as I learn Python
 
 I am currently completing the Scientific Computing with Python certification on freeCodeCamp. This repository contains:
 -Logic Challenges: Solving complex conditional problems using if, elif, and else.
--Projects: Small real-world applications like my Cinema ticket Booking System.
+-Projects: like a [Cinema Booking System](./cinema_booking.py): A logic-based tool to calculate ticket prices.
 -Automation: Scripts that show how Python can be used for Cloud and system tasks.
 
 these are the skills that I am building:
