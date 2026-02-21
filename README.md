@@ -8,11 +8,11 @@ these are the skills that I am building:
 -Problem Solving
 -Version Control with Git/GitHub
 
-My main goal is to build a solid foundation in Python to later specialize in Cloud Computing and DevOps.
+My main goal is to build a solid foundation in Python to later specialize in Cloud security.
 
 I am curently completing the Scientific Computing with Python certification on freeCodeCamp. This repository contains:
 -Logic Challenges: Solving complex conditional problems using if, elif, and else.
--Automation: Scripts that show how Python can be used for Cloud and system tasks.
+-Automation: Scripts that show how Python can be used for Cloud security
 
 -Projects:
 Cinema Booking System
