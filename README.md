@@ -1,7 +1,7 @@
 # python-learning-path
-My personal journey learning Python for Cloud Computing and Automation. Projects and exercises from freeCodeCamp.
+My personal journey learning Python. Projects and exercises from freeCodeCamp.
 
-Welcome to my repository! This is where I document my progress as I learn Python from scratch. with the goal of becoming a cloud trainee.
+Welcome to my repository! This is where I document my progress as I learn Python from scratch. with the goal of becoming a cloud security.
 
 these are the skills that I am building:
 -Basic Programming Logic like: Control Flow, Loops and Functions
@@ -12,7 +12,7 @@ My main goal is to build a solid foundation in Python to later specialize in Clo
 
 I am curently completing the Scientific Computing with Python certification on freeCodeCamp. This repository contains:
 -Logic Challenges: Solving complex conditional problems using if, elif, and else.
--Automation: Scripts that show how Python can be used for Cloud security
+-Scripts that show how Python can be used for Cloud security
 
 -Projects:
 Cinema Booking System
