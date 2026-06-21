@@ -6,7 +6,6 @@
 
 - Variables
 - Data Types
-- Strings
 
 ---
 
